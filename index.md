@@ -8,3 +8,8 @@ Added markdown header 1
 ```python
 var = "Hello World"
 ```
+
+- [X] Do survey
+- [ ] Do Homework 1
+- [ ] Cook Dinner
+      
